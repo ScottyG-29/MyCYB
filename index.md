@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./assets/diagram1.jpg).
+[Link to another page](./assets/diagram2.png).
 
 There should be whitespace between paragraphs.
 
